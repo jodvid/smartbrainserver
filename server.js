@@ -11,6 +11,10 @@ const image = require('./controllers/image');
 
 
 //jojo here
+<>
+  //jojo here
+  <meta property="og:title" content="__OG_TITLE__" />
+  <meta property="og:description" content="__OG_DESCRIPTION__" /></>
 
 const db = knex({
     client: 'pg',
